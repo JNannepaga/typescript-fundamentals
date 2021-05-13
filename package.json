@@ -1,0 +1,32 @@
+{
+  "name": "typescript-fundamentals",
+  "version": "1.0.0",
+  "description": "This has all fundametals of typescript",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server --baseDir ./dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GunduMoni/typescript-fundamentals.git"
+  },
+  "keywords": [
+    "typescript",
+    "fundamentals",
+    "of",
+    "typescript"
+  ],
+  "author": "Joseph Abhilash Nannepaga",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GunduMoni/typescript-fundamentals/issues"
+  },
+  "homepage": "https://github.com/GunduMoni/typescript-fundamentals#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "typescript": "^4.1.3"
+  }
+}
